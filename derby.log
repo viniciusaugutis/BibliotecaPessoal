@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 25 01:00:32 BRST 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0151-3c95-d65c-000000b9fb08
+no diretório de banco de dados C:\Users\Augutis\Desktop\BibliotecPessoal\BibliotecaPessoal\biblioteca 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=C:\Users\Augutis\Desktop\BibliotecPessoal\BibliotecaPessoal
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
